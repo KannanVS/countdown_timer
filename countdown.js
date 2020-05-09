@@ -30,4 +30,3 @@ timer.on("tick", () => {
 })
 
 timer.start(count*1000);
-// console.log(time);
